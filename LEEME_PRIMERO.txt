@@ -1,0 +1,13 @@
+IVA SV - Sistema Fiscal Multiempresa
+
+1. Descomprima la carpeta.
+2. Ejecute INICIAR_SISTEMA.bat.
+3. Inicie sesión.
+4. Antes de entrar al menú, seleccione una empresa existente o cree una nueva.
+5. El sistema mostrará siempre la empresa activa en el encabezado y el período fiscal seleccionado.
+6. Para cambiar o crear otra empresa, use el botón "Cambiar / crear empresa" del menú lateral.
+
+Usuario local predeterminado: admin
+Contraseña local predeterminada: cambiarme
+
+En producción configure APP_USER, APP_PASSWORD_SHA256 y DATABASE_URL.
